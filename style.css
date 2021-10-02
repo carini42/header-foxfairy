@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.logo-header a{
+    width: 142px;
+    height: 27px;
+    font-family: 'Sansation', Arial;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+nav ul {
+    display: flex;
+    
+}
+
+nav ul li a {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+}
+
+nav ul li:first-child {
+    margin: 0px 65px;
+}
+
+nav ul li:nth-child(3) {
+    margin: 0px 65px;
+}
+
+button{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #312A2B;
+    padding: 15px 37px;
+    background-color: #fff;
+}

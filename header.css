@@ -1,0 +1,27 @@
+@import url('https://allfont.net/allfont.css?fonts=sansation-regular');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap');
+
+body {
+    overflow-x: hidden;
+    margin: 0;
+    max-width: 1920px;
+    width: 100%;
+    font-family: 'Sansation Regular', Arial;
+    font-family: 'Mulish', sans-serif;
+}
+
+.content-width {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #312A2B
+}
